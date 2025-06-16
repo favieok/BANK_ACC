@@ -11,3 +11,4 @@ class CurrentAccount(Account):
     def deposit(self, amount):
         super().deposit(amount)
 
+
