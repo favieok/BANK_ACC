@@ -10,7 +10,7 @@ A simple bank account dashboard built using Streamlit, allowing users make depos
 *Streamlit 
 
 ##CONTRIBUTIONS
-*Dasha Ajufoh - Desingned the UI and led the project
+*Dasha Ajufoh - Desingned the UI and contributed the home.py
 *Okereke Favour - Maintained the README file and documented the project
 *Morkah Grace - Contributed the Savings aspect of the project
 *Awuhe Treasure - Contributed the Account aspect of the project
