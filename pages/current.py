@@ -10,4 +10,7 @@ with st.form("Current Account Form"):
     operations = st.selectbox("Deposit or withdrawal", ("Deposit", "withdrawal"))
     submit = st.form_submit_button("Submit")
 
+st.markdown("---")
+st.markdown("<p style='text-align: center; color: gray;'>Thank you for banking with us! ✨</p>", unsafe_allow_html=True)
+
 

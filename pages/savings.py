@@ -17,3 +17,6 @@ if submit and operations == "withdrawal":
     with st.spinner("Processing..."):
         savings.withdraw(amount)
         print(savings.balance)
+
+st.markdown("---")
+st.markdown("<p style='text-align: center; color: gray;'>Thank you for banking with us! ✨</p>", unsafe_allow_html=True)
