@@ -15,3 +15,30 @@
 - *Morkah Grace - Contributed the Savings_account aspect of the project
 - *Awuhe Treasure - Contributed to the Account aspect of the project
 - *Okechukwu Angel - Contributed the Savings and Current aspects of the project
+
+### Setup
+first create a virtual environment
+```bash
+python -m venv .venv
+```
+
+Then enter into the virtual environment 
+- for windows
+``` bash
+.venv/Scripts/activate
+```
+
+- for linux/mac
+```bash
+source .venv/bin/activate
+```
+afterwards, install libraries needed
+
+```python
+pip install -r requiremnts.txt
+```
+
+finally run the home.py script
+```python
+streamlit run home.py
+```
